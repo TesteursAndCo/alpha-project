@@ -1,2 +1,3 @@
 # alpha-project
+:
 Test project.
